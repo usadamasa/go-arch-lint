@@ -2,6 +2,8 @@ module github.com/fe3dback/go-arch-lint
 
 go 1.25.0
 
+toolchain go1.27.3
+
 require (
 	github.com/alecthomas/chroma v0.10.0
 	github.com/fe3dback/go-yaml v1.14.0
